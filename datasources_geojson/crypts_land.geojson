@@ -8003,6 +8003,6 @@
 { "type": "Feature", "properties": { "id": 7997 }, "geometry": { "type": "Point", "coordinates": [ 117.784928436080335, 6.466742060006094 ] } },
 { "type": "Feature", "properties": { "id": 7998 }, "geometry": { "type": "Point", "coordinates": [ 123.757265629043388, 6.472762213541111 ] } },
 { "type": "Feature", "properties": { "id": 7999 }, "geometry": { "type": "Point", "coordinates": [ 120.208546827432031, 5.518661739332523 ] } },
-{ "type": "Feature", "properties": { "id": 8001 }, "geometry": { "type": "Point", "coordinates": [ -164.711995147313871, -3.896185056621235 ] } }
+{ "type": "Feature", "properties": { "id": 8001 }, "geometry": { "type": "Point", "coordinates": [ -114.380636446593485, -7.038675210913908 ] } }
 ]
 }

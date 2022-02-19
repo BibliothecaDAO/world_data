@@ -1,0 +1,3 @@
+[submodule "cnc-images"]
+	path = cnc-images
+	url = https://github.com/threepwave/cnc-images.git
