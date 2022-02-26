@@ -5,6 +5,9 @@ import random
 
 BUILD_DIR = "./build"
 
+# loot bags
+LOOT_BAGS_GEOJSON = "./datasources_geojson/loot_bags.geojson"
+
 # genesis project
 GA_BAGS_GRAPHQL = "./datasources_json/ga_bags.json"
 GA_BAGS_GEOJSON = "./datasources_geojson/ga_bags.geojson"
@@ -58,14 +61,20 @@ def allocate_genesis_adventurers():
                 if "ga_id" not in feature["properties"]:
                     feature["properties"]["ga_id"] = ga["id"]
                     break
-    new_data = [
-        {
-            "ga_id": feature["properties"]["ga_id"],
-            "order": feature["properties"]["order_name"],
-            "geometry": feature["geometry"]
-        }
-        for feature in geodata["features"] if "ga_id" in feature["properties"]
-    ]
+    new_data = {
+        "type": "FeatureCollection",
+        "name": "ga_bags",
+        "features": [
+            {
+                "properties": {
+                    "ga_id": feature["properties"]["ga_id"],
+                    "order": feature["properties"]["order_name"]
+                },
+                "geometry": feature["geometry"]
+            }
+            for feature in geodata["features"] if "ga_id" in feature["properties"]
+        ]
+    }
     save_json(new_data, "ga_bags.json")
 
 def allocate_crypts():
@@ -135,14 +144,18 @@ def allocate_crypts():
 
     # combine everything
     all_features = sea_data["features"] + land_data["features"]
-    all_features = [x for x in all_features if len(x["properties"]) > 2]
+    all_features = [
+        {
+            "properties": {
+                "tokenId": x["properties"]["tokenId"],
+                "environment": x["properties"]["environment"]
+            },
+            "geometry": x["geometry"]
+        } 
+        for x in all_features if len(x["properties"]) > 2]
 
     combined = {'type': 'FeatureCollection',
-        'name': 'crypts_sea',
-        'crs': {
-            'type': 'name',
-            'properties': {'name': 'urn:ogc:def:crs:OGC:1.3:CRS84'}
-        },
+        'name': 'crypts_all',
         'features': all_features
     }
 
@@ -150,6 +163,26 @@ def allocate_crypts():
     save_json(land_data, "crypts_land.json")
     save_json(combined, "crypts_all.json")
 
+def tidy_loot_bags():
+    data = load_json(LOOT_BAGS_GEOJSON)
+
+    data = {
+        "type": data["type"],
+        "name": data["name"],
+        "features": [
+            {
+                "properties": {
+                    "bag_id": feature["properties"]["id"] + 1,
+                    "order": feature["properties"]["order_name"]
+                },
+                "geometry": feature["geometry"]
+            }
+            for feature in data["features"]
+            ]
+    }
+
+    save_json(data,"loot_bags.json")
 
 allocate_genesis_adventurers()
 allocate_crypts()
+tidy_loot_bags()

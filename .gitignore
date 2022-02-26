@@ -1,1 +1,4 @@
-.qgs~
+*.qgs~
+*.qmd
+*checkpoints*
+*.lock
