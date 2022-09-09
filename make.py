@@ -5,14 +5,14 @@ import random
 
 BUILD_DIR = "./build"
 
-# loot bags
+# LOOT BAGS
 LOOT_BAGS_GEOJSON = "./datasources_geojson/loot_bags.geojson"
 
-# genesis project
+# GENESIS PROJECT
 GA_BAGS_GRAPHQL = "./datasources_json/ga_bags.json"
 GA_BAGS_GEOJSON = "./datasources_geojson/ga_bags.geojson"
 
-# crypts and caverns
+# CRYPTS N CAVERNS
 CNC_METADATA = "./cnc-images/metadata/dungeons.json"
 LAND_CRYPTS_GEOJSON = "./datasources_geojson/crypts_land_order.geojson"
 SEA_CRYPTS_GEOJSON = "./datasources_geojson/crypts_sea.geojson"
@@ -184,5 +184,5 @@ def tidy_loot_bags():
     save_json(data,"loot_bags.json")
 
 allocate_genesis_adventurers()
-allocate_crypts()
-tidy_loot_bags()
+# allocate_crypts()
+# tidy_loot_bags()
