@@ -420,7 +420,7 @@
     },
     {
       "properties": {
-        "ga_id": "61",
+        "ga_id": "519",
         "order": "Rage"
       },
       "geometry": {
@@ -428,6 +428,45 @@
         "coordinates": [
           -96.80618829090082,
           -1.304057377395756
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "547",
+        "order": "Rage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.26750329812114,
+          15.992824240902994
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "563",
+        "order": "Rage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5338381938932,
+          -4.110281350714308
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "61",
+        "order": "Rage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.91424740441555,
+          13.335893885583559
         ]
       }
     },
@@ -784,7 +823,7 @@
     },
     {
       "properties": {
-        "ga_id": "79",
+        "ga_id": "491",
         "order": "Detection"
       },
       "geometry": {
@@ -797,7 +836,7 @@
     },
     {
       "properties": {
-        "ga_id": "90",
+        "ga_id": "496",
         "order": "Detection"
       },
       "geometry": {
@@ -805,6 +844,136 @@
         "coordinates": [
           -118.35729614449187,
           -24.844739131563184
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "515",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.78355818396861,
+          -10.374032150353127
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "516",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.80583929506861,
+          -15.79425798019781
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "557",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11627094859513,
+          -14.48426979866991
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "565",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.61849637180399,
+          -10.483154753635155
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "582",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64841487609765,
+          -15.122586501104042
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "597",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.11749610345646,
+          -23.133259044992208
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "598",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.65147434895907,
+          -11.47521146910934
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "602",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.97923457291185,
+          -13.109423266621832
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "79",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.75159822879678,
+          -6.03415758963213
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "90",
+        "order": "Detection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.17017665919421,
+          -27.619473204489903
         ]
       }
     },
@@ -1213,7 +1382,7 @@
     },
     {
       "properties": {
-        "ga_id": "72",
+        "ga_id": "517",
         "order": "Anger"
       },
       "geometry": {
@@ -1226,7 +1395,7 @@
     },
     {
       "properties": {
-        "ga_id": "76",
+        "ga_id": "523",
         "order": "Anger"
       },
       "geometry": {
@@ -1239,7 +1408,7 @@
     },
     {
       "properties": {
-        "ga_id": "77",
+        "ga_id": "536",
         "order": "Anger"
       },
       "geometry": {
@@ -1252,7 +1421,7 @@
     },
     {
       "properties": {
-        "ga_id": "87",
+        "ga_id": "556",
         "order": "Anger"
       },
       "geometry": {
@@ -1260,6 +1429,110 @@
         "coordinates": [
           -83.353533394754,
           36.29348724406238
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "564",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21727047346653,
+          41.04834885587404
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "577",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.67988325592749,
+          39.4943641992169
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "578",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7379392418803,
+          26.21570291997627
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "593",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.64480086320386,
+          38.84289236249477
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "72",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.47550109961699,
+          31.999322391697532
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "76",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50637819382379,
+          31.527067773946005
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "77",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.38186394138619,
+          40.68127949396868
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "87",
+        "order": "Anger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47423720738746,
+          44.83163088898442
         ]
       }
     },
@@ -1603,7 +1876,7 @@
     },
     {
       "properties": {
-        "ga_id": "56",
+        "ga_id": "500",
         "order": "Giants"
       },
       "geometry": {
@@ -1616,7 +1889,7 @@
     },
     {
       "properties": {
-        "ga_id": "67",
+        "ga_id": "510",
         "order": "Giants"
       },
       "geometry": {
@@ -1629,7 +1902,7 @@
     },
     {
       "properties": {
-        "ga_id": "74",
+        "ga_id": "511",
         "order": "Giants"
       },
       "geometry": {
@@ -1642,7 +1915,7 @@
     },
     {
       "properties": {
-        "ga_id": "94",
+        "ga_id": "528",
         "order": "Giants"
       },
       "geometry": {
@@ -1650,6 +1923,123 @@
         "coordinates": [
           50.233606553653956,
           -35.23889339710319
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "540",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.42932039918716,
+          -48.53022127433095
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "56",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.23776013638208,
+          -19.93045012873872
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "569",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.884567428503786,
+          -35.43801480397215
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "594",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.793574747940543,
+          -32.021402781923584
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "610",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76693852534357,
+          -31.744794248148477
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "614",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.53550435707737,
+          -28.741033587044868
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "67",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.070384788120485,
+          -31.937329516596716
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "74",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.82982530893389,
+          -42.97956759076129
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "94",
+        "order": "Giants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.412644480383214,
+          -40.33844906459963
         ]
       }
     },
@@ -1915,7 +2305,7 @@
     },
     {
       "properties": {
-        "ga_id": "48",
+        "ga_id": "478",
         "order": "Skill"
       },
       "geometry": {
@@ -1928,7 +2318,7 @@
     },
     {
       "properties": {
-        "ga_id": "64",
+        "ga_id": "48",
         "order": "Skill"
       },
       "geometry": {
@@ -1941,7 +2331,7 @@
     },
     {
       "properties": {
-        "ga_id": "96",
+        "ga_id": "486",
         "order": "Skill"
       },
       "geometry": {
@@ -1949,6 +2339,136 @@
         "coordinates": [
           70.93730975275764,
           35.479937718388825
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "487",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.55504397700471,
+          28.394696764701543
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "488",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6674900306744,
+          35.95458859721797
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "489",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.77019356212057,
+          19.90241188379092
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "505",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.77076263166889,
+          46.41320411377555
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "507",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.521132777340114,
+          23.582526184569552
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "566",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.76645063916561,
+          36.477346058007996
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "570",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.74394626792207,
+          23.09695598624099
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "611",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.6205354053852,
+          48.452486621184946
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "64",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.65621454344068,
+          33.17119032971905
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "96",
+        "order": "Skill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.36611729016565,
+          35.465453370870144
         ]
       }
     },
@@ -2188,7 +2708,7 @@
     },
     {
       "properties": {
-        "ga_id": "6",
+        "ga_id": "481",
         "order": "Enlightenment"
       },
       "geometry": {
@@ -2201,7 +2721,7 @@
     },
     {
       "properties": {
-        "ga_id": "60",
+        "ga_id": "514",
         "order": "Enlightenment"
       },
       "geometry": {
@@ -2214,7 +2734,7 @@
     },
     {
       "properties": {
-        "ga_id": "62",
+        "ga_id": "525",
         "order": "Enlightenment"
       },
       "geometry": {
@@ -2227,7 +2747,7 @@
     },
     {
       "properties": {
-        "ga_id": "66",
+        "ga_id": "539",
         "order": "Enlightenment"
       },
       "geometry": {
@@ -2235,6 +2755,149 @@
         "coordinates": [
           94.85279350766781,
           22.381017090288445
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "542",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.88330567470248,
+          24.0277676603381
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "546",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.87350100286824,
+          22.938551370140296
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "560",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.77518944707171,
+          22.38594028997701
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "581",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.91659538766453,
+          32.040982447942326
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "590",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.52854693942878,
+          47.97791388179846
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "6",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.91238210066021,
+          31.99771523769824
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "60",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.28088122883511,
+          39.876325073040846
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "608",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.09323081566248,
+          28.99865939991509
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "616",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.86229404110293,
+          27.353403443572702
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "62",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.06557180962422,
+          40.13911271821736
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "66",
+        "order": "Enlightenment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.94001239564523,
+          20.305569732001487
         ]
       }
     },
@@ -2578,7 +3241,7 @@
     },
     {
       "properties": {
-        "ga_id": "73",
+        "ga_id": "479",
         "order": "Power"
       },
       "geometry": {
@@ -2591,7 +3254,7 @@
     },
     {
       "properties": {
-        "ga_id": "84",
+        "ga_id": "502",
         "order": "Power"
       },
       "geometry": {
@@ -2604,7 +3267,7 @@
     },
     {
       "properties": {
-        "ga_id": "91",
+        "ga_id": "509",
         "order": "Power"
       },
       "geometry": {
@@ -2617,7 +3280,7 @@
     },
     {
       "properties": {
-        "ga_id": "97",
+        "ga_id": "521",
         "order": "Power"
       },
       "geometry": {
@@ -2625,6 +3288,110 @@
         "coordinates": [
           -13.79204973850296,
           -40.58406802345932
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "529",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.099844977913396,
+          -33.56760811222156
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "530",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.638111499271362,
+          -31.778230999735626
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "549",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.278993106576213,
+          -20.69492239772701
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "559",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.425401613098671,
+          -37.010638196272716
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "73",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.980664796450263,
+          -22.452918734531128
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "84",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765837299643209,
+          -34.040232261443606
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "91",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.976928465428855,
+          -31.297731158372734
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "97",
+        "order": "Power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.948398094050646,
+          -35.86040561415324
         ]
       }
     },
@@ -3007,7 +3774,7 @@
     },
     {
       "properties": {
-        "ga_id": "49",
+        "ga_id": "483",
         "order": "Brilliance"
       },
       "geometry": {
@@ -3020,7 +3787,7 @@
     },
     {
       "properties": {
-        "ga_id": "58",
+        "ga_id": "49",
         "order": "Brilliance"
       },
       "geometry": {
@@ -3033,7 +3800,7 @@
     },
     {
       "properties": {
-        "ga_id": "71",
+        "ga_id": "58",
         "order": "Brilliance"
       },
       "geometry": {
@@ -3046,7 +3813,7 @@
     },
     {
       "properties": {
-        "ga_id": "75",
+        "ga_id": "587",
         "order": "Brilliance"
       },
       "geometry": {
@@ -3059,7 +3826,7 @@
     },
     {
       "properties": {
-        "ga_id": "78",
+        "ga_id": "600",
         "order": "Brilliance"
       },
       "geometry": {
@@ -3072,7 +3839,7 @@
     },
     {
       "properties": {
-        "ga_id": "8",
+        "ga_id": "71",
         "order": "Brilliance"
       },
       "geometry": {
@@ -3080,6 +3847,45 @@
         "coordinates": [
           89.03246267054833,
           -6.435965629739992
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "75",
+        "order": "Brilliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.82201658286007,
+          10.296131948996647
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "78",
+        "order": "Brilliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.82502482025048,
+          4.885126203440315
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "8",
+        "order": "Brilliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.30762801834965,
+          10.49162693797786
         ]
       }
     },
@@ -3449,7 +4255,7 @@
     },
     {
       "properties": {
-        "ga_id": "63",
+        "ga_id": "495",
         "order": "Perfection"
       },
       "geometry": {
@@ -3462,7 +4268,7 @@
     },
     {
       "properties": {
-        "ga_id": "69",
+        "ga_id": "501",
         "order": "Perfection"
       },
       "geometry": {
@@ -3470,6 +4276,136 @@
         "coordinates": [
           69.7133064618979,
           -18.907875657228825
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "522",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5348417264122,
+          -17.09574174212932
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "534",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.84274139053234,
+          -10.811292595839417
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "551",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.29019515409274,
+          -9.606617846035896
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "553",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.02566738083809,
+          -2.899299154564666
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "573",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.39623518441934,
+          -3.381870859001218
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "585",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.84274760411023,
+          -21.40274494350212
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "586",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.40330727752266,
+          -18.242748162412283
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "609",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.01580947121951,
+          -2.477567154473117
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "63",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.96044831915088,
+          -22.890680535689594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "69",
+        "order": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.01327432583966,
+          -16.50215014059595
         ]
       }
     },
@@ -3826,7 +4762,7 @@
     },
     {
       "properties": {
-        "ga_id": "55",
+        "ga_id": "482",
         "order": "Titans"
       },
       "geometry": {
@@ -3839,7 +4775,7 @@
     },
     {
       "properties": {
-        "ga_id": "68",
+        "ga_id": "498",
         "order": "Titans"
       },
       "geometry": {
@@ -3852,7 +4788,7 @@
     },
     {
       "properties": {
-        "ga_id": "86",
+        "ga_id": "513",
         "order": "Titans"
       },
       "geometry": {
@@ -3865,7 +4801,7 @@
     },
     {
       "properties": {
-        "ga_id": "92",
+        "ga_id": "532",
         "order": "Titans"
       },
       "geometry": {
@@ -3878,7 +4814,7 @@
     },
     {
       "properties": {
-        "ga_id": "98",
+        "ga_id": "537",
         "order": "Titans"
       },
       "geometry": {
@@ -3886,6 +4822,162 @@
         "coordinates": [
           14.815797597302605,
           9.626049258684887
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "541",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.667483847794696,
+          9.434202612934776
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "545",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.470036628938587,
+          48.13637943458022
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "548",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.510663559735082,
+          43.29376363084242
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "55",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.479066731604298,
+          44.26784878596908
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "588",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.609920032472044,
+          0.119817847273609
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "591",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.621594994349931,
+          6.885678322810326
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "607",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.517586359724139,
+          11.066193615082131
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "612",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.822220454483485,
+          45.222245525614014
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "68",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.14913682935329,
+          38.01358018231633
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "86",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.542866458864669,
+          12.537963175714703
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "92",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.833406137777324,
+          41.62376412388488
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "98",
+        "order": "Titans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.306092160459507,
+          36.94897504426174
         ]
       }
     },
@@ -4268,7 +5360,7 @@
     },
     {
       "properties": {
-        "ga_id": "59",
+        "ga_id": "477",
         "order": "Fury"
       },
       "geometry": {
@@ -4281,7 +5373,7 @@
     },
     {
       "properties": {
-        "ga_id": "70",
+        "ga_id": "484",
         "order": "Fury"
       },
       "geometry": {
@@ -4294,7 +5386,7 @@
     },
     {
       "properties": {
-        "ga_id": "99",
+        "ga_id": "524",
         "order": "Fury"
       },
       "geometry": {
@@ -4302,6 +5394,136 @@
         "coordinates": [
           -54.37733050657624,
           54.075438645678794
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "544",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.39577629467259,
+          49.05778554036763
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "555",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.38066114540591,
+          49.85273255506352
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "574",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.92442868025185,
+          51.68875242039877
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "575",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.67726889803124,
+          49.6734221386768
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "59",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.721447761225775,
+          50.07555657531154
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "604",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.13331037305009,
+          49.13309005007907
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "605",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.49068280565018,
+          54.654491328431234
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "617",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.816049039157136,
+          48.4884086440716
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "70",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.849833812471,
+          48.898797357383906
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "99",
+        "order": "Fury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.63836344338546,
+          55.71425869068918
         ]
       }
     },
@@ -4684,7 +5906,7 @@
     },
     {
       "properties": {
-        "ga_id": "65",
+        "ga_id": "503",
         "order": "Reflection"
       },
       "geometry": {
@@ -4697,7 +5919,7 @@
     },
     {
       "properties": {
-        "ga_id": "80",
+        "ga_id": "526",
         "order": "Reflection"
       },
       "geometry": {
@@ -4710,7 +5932,7 @@
     },
     {
       "properties": {
-        "ga_id": "89",
+        "ga_id": "527",
         "order": "Reflection"
       },
       "geometry": {
@@ -4718,6 +5940,136 @@
         "coordinates": [
           -103.346613966595,
           -14.541969669776538
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "550",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.55629425949903,
+          -28.36666040021781
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "552",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.81561593639859,
+          -19.599113246910424
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "567",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.75357645132158,
+          -13.139776089413708
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "579",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1668682883963,
+          -8.467264381966132
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "580",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0361398844163,
+          0.090308066532785
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "584",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.70839837817947,
+          -33.72642035871976
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "596",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.22922062576437,
+          -35.99323564875457
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "65",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.13280093684902,
+          -24.93005830081826
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "80",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.80670727154482,
+          -4.253568254132126
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "89",
+        "order": "Reflection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.69315478187872,
+          -21.005403259798108
         ]
       }
     },
@@ -5035,7 +6387,7 @@
     },
     {
       "properties": {
-        "ga_id": "54",
+        "ga_id": "493",
         "order": "the Twins"
       },
       "geometry": {
@@ -5048,7 +6400,7 @@
     },
     {
       "properties": {
-        "ga_id": "57",
+        "ga_id": "518",
         "order": "the Twins"
       },
       "geometry": {
@@ -5061,7 +6413,7 @@
     },
     {
       "properties": {
-        "ga_id": "7",
+        "ga_id": "538",
         "order": "the Twins"
       },
       "geometry": {
@@ -5074,7 +6426,7 @@
     },
     {
       "properties": {
-        "ga_id": "81",
+        "ga_id": "54",
         "order": "the Twins"
       },
       "geometry": {
@@ -5082,6 +6434,123 @@
         "coordinates": [
           -73.90751966805132,
           -35.50598169364788
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "558",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63770948266699,
+          -42.69157891958409
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "561",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.97564354864045,
+          -36.18895092231794
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "57",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.86985990355484,
+          -35.018899609058266
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "572",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.46278134220699,
+          -27.352183584312062
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "595",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.32942711946542,
+          -51.93651512774336
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "603",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.03114528445036,
+          -21.38139113874101
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "606",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.82664506104997,
+          -35.27064118664255
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "7",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.28572795892814,
+          -32.91884988927545
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "81",
+        "order": "the Twins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0229617560694,
+          -27.77386263968601
         ]
       }
     },
@@ -5360,7 +6829,7 @@
     },
     {
       "properties": {
-        "ga_id": "53",
+        "ga_id": "480",
         "order": "Vitriol"
       },
       "geometry": {
@@ -5373,7 +6842,7 @@
     },
     {
       "properties": {
-        "ga_id": "82",
+        "ga_id": "492",
         "order": "Vitriol"
       },
       "geometry": {
@@ -5386,7 +6855,7 @@
     },
     {
       "properties": {
-        "ga_id": "88",
+        "ga_id": "506",
         "order": "Vitriol"
       },
       "geometry": {
@@ -5399,7 +6868,7 @@
     },
     {
       "properties": {
-        "ga_id": "95",
+        "ga_id": "508",
         "order": "Vitriol"
       },
       "geometry": {
@@ -5407,6 +6876,175 @@
         "coordinates": [
           -25.476933137395395,
           24.568161063224593
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "512",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.13752729435756,
+          22.283998493887673
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "53",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.654960624514857,
+          8.504105335908326
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "533",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.42494138860926,
+          15.851671659672615
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "568",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.652232831213873,
+          30.20392131299297
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "576",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.87890156319933,
+          21.91566876639807
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "599",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.73771504304839,
+          15.177929288961433
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "601",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.21154802875393,
+          5.111194368816721
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "613",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.985786869144519,
+          18.332261724359604
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "618",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.62575143967103,
+          21.641630654038384
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "619",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.06069699220806,
+          19.207744597356594
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "82",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.06631151125404,
+          4.947771190088522
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "88",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.933171881438824,
+          19.934842717501223
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "95",
+        "order": "Vitriol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.474610258919576,
+          15.967164367843491
         ]
       }
     },
@@ -5724,7 +7362,7 @@
     },
     {
       "properties": {
-        "ga_id": "50",
+        "ga_id": "485",
         "order": "the Fox"
       },
       "geometry": {
@@ -5737,7 +7375,7 @@
     },
     {
       "properties": {
-        "ga_id": "51",
+        "ga_id": "490",
         "order": "the Fox"
       },
       "geometry": {
@@ -5750,7 +7388,7 @@
     },
     {
       "properties": {
-        "ga_id": "85",
+        "ga_id": "499",
         "order": "the Fox"
       },
       "geometry": {
@@ -5763,7 +7401,7 @@
     },
     {
       "properties": {
-        "ga_id": "93",
+        "ga_id": "50",
         "order": "the Fox"
       },
       "geometry": {
@@ -5771,6 +7409,136 @@
         "coordinates": [
           -66.35438211318339,
           -58.19185846128129
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "504",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.20421521685283,
+          -50.614786112939726
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "51",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.52036076140773,
+          -42.03202392282385
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "520",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8055135229278,
+          -49.31192797216347
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "531",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88525120632818,
+          -40.282852437826804
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "554",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.46727516374071,
+          -56.34014227107619
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "571",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.0552392374626,
+          -36.32718982012176
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "589",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.52862015520859,
+          -49.52476885034059
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "592",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.93404090950193,
+          -51.196176695769495
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "85",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.434564011582395,
+          -38.787770429840066
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "93",
+        "order": "the Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.72587831264451,
+          -35.11171753558365
         ]
       }
     },
@@ -6153,7 +7921,7 @@
     },
     {
       "properties": {
-        "ga_id": "52",
+        "ga_id": "494",
         "order": "Protection"
       },
       "geometry": {
@@ -6166,7 +7934,7 @@
     },
     {
       "properties": {
-        "ga_id": "83",
+        "ga_id": "497",
         "order": "Protection"
       },
       "geometry": {
@@ -6179,7 +7947,7 @@
     },
     {
       "properties": {
-        "ga_id": "9",
+        "ga_id": "52",
         "order": "Protection"
       },
       "geometry": {
@@ -6187,6 +7955,97 @@
         "coordinates": [
           120.96685603738722,
           -24.447116356005147
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "535",
+        "order": "Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.15687953156926,
+          -24.76832969201736
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "543",
+        "order": "Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.3840145310639,
+          -21.42009114701389
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "562",
+        "order": "Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.13733621800634,
+          -20.242100074589263
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "583",
+        "order": "Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.17057599287665,
+          15.220705475797164
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "615",
+        "order": "Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.36186734303799,
+          16.8953776229583
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "83",
+        "order": "Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.34091963834481,
+          1.38046645529945
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ga_id": "9",
+        "order": "Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.10857603268084,
+          16.922372596682912
         ]
       }
     }

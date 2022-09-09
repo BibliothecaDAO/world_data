@@ -1,1910 +1,2482 @@
 {
-    "data": {
-      "adventurers": [
-        {
-            "id": "1",
-            "order": "Brilliance"
-          },
-          {
-            "id": "10",
-            "order": "Vitriol"
-          },
-          {
-            "id": "100",
-            "order": "Fury"
-          },
-          {
-            "id": "101",
-            "order": "Anger"
-          },
-          {
-            "id": "102",
-            "order": "Fury"
-          },
-          {
-            "id": "103",
-            "order": "Titans"
-          },
-          {
-            "id": "104",
-            "order": "Fury"
-          },
-          {
-            "id": "105",
-            "order": "Rage"
-          },
-          {
-            "id": "106",
-            "order": "Detection"
-          },
-          {
-            "id": "107",
-            "order": "Giants"
-          },
-          {
-            "id": "108",
-            "order": "Rage"
-          },
-          {
-            "id": "109",
-            "order": "Brilliance"
-          },
-          {
-            "id": "11",
-            "order": "Power"
-          },
-          {
-            "id": "110",
-            "order": "the Fox"
-          },
-          {
-            "id": "111",
-            "order": "Skill"
-          },
-          {
-            "id": "112",
-            "order": "Vitriol"
-          },
-          {
-            "id": "113",
-            "order": "Anger"
-          },
-          {
-            "id": "114",
-            "order": "Titans"
-          },
-          {
-            "id": "115",
-            "order": "Protection"
-          },
-          {
-            "id": "116",
-            "order": "Brilliance"
-          },
-          {
-            "id": "117",
-            "order": "Anger"
-          },
-          {
-            "id": "118",
-            "order": "Rage"
-          },
-          {
-            "id": "119",
-            "order": "Power"
-          },
-          {
-            "id": "12",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "120",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "121",
-            "order": "Giants"
-          },
-          {
-            "id": "122",
-            "order": "Rage"
-          },
-          {
-            "id": "123",
-            "order": "the Fox"
-          },
-          {
-            "id": "124",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "125",
-            "order": "Power"
-          },
-          {
-            "id": "126",
-            "order": "the Twins"
-          },
-          {
-            "id": "127",
-            "order": "Titans"
-          },
-          {
-            "id": "128",
-            "order": "Power"
-          },
-          {
-            "id": "129",
-            "order": "Power"
-          },
-          {
-            "id": "13",
-            "order": "Power"
-          },
-          {
-            "id": "130",
-            "order": "Anger"
-          },
-          {
-            "id": "131",
-            "order": "Perfection"
-          },
-          {
-            "id": "132",
-            "order": "Fury"
-          },
-          {
-            "id": "133",
-            "order": "Perfection"
-          },
-          {
-            "id": "134",
-            "order": "Power"
-          },
-          {
-            "id": "135",
-            "order": "Giants"
-          },
-          {
-            "id": "136",
-            "order": "Rage"
-          },
-          {
-            "id": "137",
-            "order": "Titans"
-          },
-          {
-            "id": "138",
-            "order": "Rage"
-          },
-          {
-            "id": "139",
-            "order": "the Fox"
-          },
-          {
-            "id": "14",
-            "order": "Detection"
-          },
-          {
-            "id": "140",
-            "order": "the Twins"
-          },
-          {
-            "id": "141",
-            "order": "the Twins"
-          },
-          {
-            "id": "142",
-            "order": "Fury"
-          },
-          {
-            "id": "143",
-            "order": "Rage"
-          },
-          {
-            "id": "144",
-            "order": "Protection"
-          },
-          {
-            "id": "145",
-            "order": "Protection"
-          },
-          {
-            "id": "146",
-            "order": "Fury"
-          },
-          {
-            "id": "147",
-            "order": "Protection"
-          },
-          {
-            "id": "148",
-            "order": "the Twins"
-          },
-          {
-            "id": "149",
-            "order": "Perfection"
-          },
-          {
-            "id": "15",
-            "order": "Perfection"
-          },
-          {
-            "id": "150",
-            "order": "Detection"
-          },
-          {
-            "id": "151",
-            "order": "Reflection"
-          },
-          {
-            "id": "152",
-            "order": "Detection"
-          },
-          {
-            "id": "153",
-            "order": "Brilliance"
-          },
-          {
-            "id": "154",
-            "order": "Vitriol"
-          },
-          {
-            "id": "155",
-            "order": "Protection"
-          },
-          {
-            "id": "156",
-            "order": "Giants"
-          },
-          {
-            "id": "157",
-            "order": "Brilliance"
-          },
-          {
-            "id": "158",
-            "order": "Skill"
-          },
-          {
-            "id": "159",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "16",
-            "order": "the Fox"
-          },
-          {
-            "id": "160",
-            "order": "Fury"
-          },
-          {
-            "id": "161",
-            "order": "Titans"
-          },
-          {
-            "id": "162",
-            "order": "Giants"
-          },
-          {
-            "id": "163",
-            "order": "Reflection"
-          },
-          {
-            "id": "164",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "165",
-            "order": "Perfection"
-          },
-          {
-            "id": "166",
-            "order": "Fury"
-          },
-          {
-            "id": "167",
-            "order": "Power"
-          },
-          {
-            "id": "168",
-            "order": "Vitriol"
-          },
-          {
-            "id": "169",
-            "order": "Titans"
-          },
-          {
-            "id": "17",
-            "order": "Reflection"
-          },
-          {
-            "id": "170",
-            "order": "Anger"
-          },
-          {
-            "id": "171",
-            "order": "Perfection"
-          },
-          {
-            "id": "172",
-            "order": "the Twins"
-          },
-          {
-            "id": "173",
-            "order": "Vitriol"
-          },
-          {
-            "id": "174",
-            "order": "Brilliance"
-          },
-          {
-            "id": "175",
-            "order": "Protection"
-          },
-          {
-            "id": "176",
-            "order": "Titans"
-          },
-          {
-            "id": "177",
-            "order": "Perfection"
-          },
-          {
-            "id": "178",
-            "order": "Skill"
-          },
-          {
-            "id": "179",
-            "order": "Rage"
-          },
-          {
-            "id": "18",
-            "order": "Protection"
-          },
-          {
-            "id": "180",
-            "order": "Reflection"
-          },
-          {
-            "id": "181",
-            "order": "Fury"
-          },
-          {
-            "id": "182",
-            "order": "Detection"
-          },
-          {
-            "id": "183",
-            "order": "the Twins"
-          },
-          {
-            "id": "184",
-            "order": "Detection"
-          },
-          {
-            "id": "185",
-            "order": "Skill"
-          },
-          {
-            "id": "186",
-            "order": "Anger"
-          },
-          {
-            "id": "187",
-            "order": "Rage"
-          },
-          {
-            "id": "188",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "189",
-            "order": "Protection"
-          },
-        {
-            "id": "19",
-            "order": "Reflection"
-          },
-          {
-            "id": "190",
-            "order": "Giants"
-          },
-          {
-            "id": "191",
-            "order": "the Twins"
-          },
-          {
-            "id": "192",
-            "order": "Protection"
-          },
-          {
-            "id": "193",
-            "order": "Fury"
-          },
-          {
-            "id": "194",
-            "order": "Anger"
-          },
-          {
-            "id": "195",
-            "order": "Giants"
-          },
-          {
-            "id": "196",
-            "order": "the Fox"
-          },
-          {
-            "id": "197",
-            "order": "Rage"
-          },
-          {
-            "id": "198",
-            "order": "Detection"
-          },
-          {
-            "id": "199",
-            "order": "the Twins"
-          },
-          {
-            "id": "2",
-            "order": "Fury"
-          },
-          {
-            "id": "20",
-            "order": "Vitriol"
-          },
-          {
-            "id": "200",
-            "order": "the Fox"
-          },
-          {
-            "id": "201",
-            "order": "Titans"
-          },
-          {
-            "id": "202",
-            "order": "Giants"
-          },
-          {
-            "id": "203",
-            "order": "Titans"
-          },
-          {
-            "id": "204",
-            "order": "Brilliance"
-          },
-          {
-            "id": "205",
-            "order": "Power"
-          },
-          {
-            "id": "206",
-            "order": "Vitriol"
-          },
-          {
-            "id": "207",
-            "order": "Giants"
-          },
-          {
-            "id": "208",
-            "order": "Power"
-          },
-          {
-            "id": "209",
-            "order": "Brilliance"
-          },
-          {
-            "id": "21",
-            "order": "the Fox"
-          },
-          {
-            "id": "210",
-            "order": "Perfection"
-          },
-          {
-            "id": "211",
-            "order": "Brilliance"
-          },
-          {
-            "id": "212",
-            "order": "Anger"
-          },
-          {
-            "id": "213",
-            "order": "Rage"
-          },
-          {
-            "id": "214",
-            "order": "Vitriol"
-          },
-          {
-            "id": "215",
-            "order": "Rage"
-          },
-          {
-            "id": "216",
-            "order": "Perfection"
-          },
-          {
-            "id": "217",
-            "order": "Anger"
-          },
-          {
-            "id": "218",
-            "order": "Giants"
-          },
-          {
-            "id": "219",
-            "order": "Skill"
-          },
-          {
-            "id": "22",
-            "order": "Skill"
-          },
-          {
-            "id": "220",
-            "order": "Skill"
-          },
-          {
-            "id": "221",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "222",
-            "order": "Reflection"
-          },
-          {
-            "id": "223",
-            "order": "Brilliance"
-          },
-          {
-            "id": "224",
-            "order": "Reflection"
-          },
-          {
-            "id": "225",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "226",
-            "order": "Skill"
-          },
-          {
-            "id": "227",
-            "order": "Perfection"
-          },
-          {
-            "id": "228",
-            "order": "Power"
-          },
-          {
-            "id": "229",
-            "order": "Fury"
-          },
-          {
-            "id": "23",
-            "order": "Rage"
-          },
-          {
-            "id": "230",
-            "order": "Brilliance"
-          },
-          {
-            "id": "231",
-            "order": "Reflection"
-          },
-          {
-            "id": "232",
-            "order": "the Fox"
-          },
-          {
-            "id": "233",
-            "order": "Vitriol"
-          },
-          {
-            "id": "234",
-            "order": "Anger"
-          },
-          {
-            "id": "235",
-            "order": "Detection"
-          },
-          {
-            "id": "236",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "237",
-            "order": "Reflection"
-          },
-          {
-            "id": "238",
-            "order": "Protection"
-          },
-          {
-            "id": "239",
-            "order": "Skill"
-          },
-          {
-            "id": "24",
-            "order": "Fury"
-          },
-          {
-            "id": "240",
-            "order": "Giants"
-          },
-          {
-            "id": "241",
-            "order": "Giants"
-          },
-          {
-            "id": "242",
-            "order": "the Fox"
-          },
-          {
-            "id": "243",
-            "order": "Protection"
-          },
-          {
-            "id": "244",
-            "order": "Fury"
-          },
-          {
-            "id": "245",
-            "order": "Perfection"
-          },
-          {
-            "id": "246",
-            "order": "the Fox"
-          },
-          {
-            "id": "247",
-            "order": "Power"
-          },
-          {
-            "id": "248",
-            "order": "Reflection"
-          },
-          {
-            "id": "249",
-            "order": "Fury"
-          },
-          {
-            "id": "25",
-            "order": "Rage"
-          },
-          {
-            "id": "250",
-            "order": "Rage"
-          },
-          {
-            "id": "251",
-            "order": "Perfection"
-          },
-          {
-            "id": "252",
-            "order": "Brilliance"
-          },
-          {
-            "id": "253",
-            "order": "Protection"
-          },
-          {
-            "id": "254",
-            "order": "Titans"
-          },
-          {
-            "id": "255",
-            "order": "the Twins"
-          },
-          {
-            "id": "256",
-            "order": "Anger"
-          },
-          {
-            "id": "257",
-            "order": "Giants"
-          },
-          {
-            "id": "258",
-            "order": "Rage"
-          },
-          {
-            "id": "259",
-            "order": "Titans"
-          },
-          {
-            "id": "26",
-            "order": "Rage"
-          },
-          {
-            "id": "260",
-            "order": "Rage"
-          },
-          {
-            "id": "261",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "262",
-            "order": "Titans"
-          },
-          {
-            "id": "263",
-            "order": "Detection"
-          },
-          {
-            "id": "264",
-            "order": "Anger"
-          },
-          {
-            "id": "265",
-            "order": "Protection"
-          },
-          {
-            "id": "266",
-            "order": "Titans"
-          },
-          {
-            "id": "267",
-            "order": "the Twins"
-          },
-          {
-            "id": "268",
-            "order": "Detection"
-          },
-          {
-            "id": "269",
-            "order": "Perfection"
-          },
-          {
-            "id": "27",
-            "order": "Vitriol"
-          },
-          {
-            "id": "270",
-            "order": "Giants"
-          },
-          {
-            "id": "271",
-            "order": "the Twins"
-          },
-          {
-            "id": "272",
-            "order": "Brilliance"
-          },
-          {
-            "id": "273",
-            "order": "Fury"
-          },
-          {
-            "id": "274",
-            "order": "Anger"
-          },
-          {
-            "id": "275",
-            "order": "Vitriol"
-          },
-          {
-            "id": "276",
-            "order": "Giants"
-          },
-          {
-            "id": "277",
-            "order": "Titans"
-          },
-          {
-            "id": "278",
-            "order": "the Twins"
-          },
-          {
-            "id": "279",
-            "order": "Fury"
-          },
-          {
-            "id": "28",
-            "order": "Protection"
-          },
-          {
-            "id": "280",
-            "order": "Protection"
-          },
-          {
-            "id": "281",
-            "order": "Skill"
-          },
-          {
-            "id": "282",
-            "order": "Brilliance"
-          },
-          {
-            "id": "283",
-            "order": "Vitriol"
-          },
-          {
-            "id": "284",
-            "order": "Protection"
-          },
-          {
-            "id": "285",
-            "order": "Fury"
-          },
-          {
-            "id": "286",
-            "order": "Perfection"
-          },
-          {
-            "id": "287",
-            "order": "Power"
-          },
-          {
-            "id": "288",
-            "order": "Fury"
-          },
-          {
-            "id": "289",
-            "order": "Rage"
-          },
-          {
-            "id": "29",
-            "order": "Rage"
-          },
-          {
-            "id": "290",
-            "order": "the Twins"
-          },
-          {
-            "id": "291",
-            "order": "Detection"
-          },
-          {
-            "id": "292",
-            "order": "Anger"
-          },
-          {
-            "id": "293",
-            "order": "Power"
-          },
-          {
-            "id": "294",
-            "order": "the Fox"
-          },
-          {
-            "id": "295",
-            "order": "Reflection"
-          },
-          {
-            "id": "296",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "297",
-            "order": "Vitriol"
-          },
-          {
-            "id": "298",
-            "order": "Anger"
-          },
-          {
-            "id": "299",
-            "order": "the Twins"
-          },
-          {
-            "id": "3",
-            "order": "Titans"
-          },
-          {
-            "id": "30",
-            "order": "Skill"
-          },
-          {
-            "id": "300",
-            "order": "the Fox"
-          },
-          {
-            "id": "301",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "302",
-            "order": "Anger"
-          },
-          {
-            "id": "303",
-            "order": "Vitriol"
-          },
-          {
-            "id": "304",
-            "order": "Perfection"
-          },
-          {
-            "id": "305",
-            "order": "the Fox"
-          },
-          {
-            "id": "306",
-            "order": "Rage"
-          },
-          {
-            "id": "307",
-            "order": "Skill"
-          },
-          {
-            "id": "308",
-            "order": "Fury"
-          },
-          {
-            "id": "309",
-            "order": "Giants"
-          },
-          {
-            "id": "31",
-            "order": "Giants"
-          },
-          {
-            "id": "310",
-            "order": "Giants"
-          },
-          {
-            "id": "311",
-            "order": "Fury"
-          },
-          {
-            "id": "312",
-            "order": "Brilliance"
-          },
-          {
-            "id": "313",
-            "order": "Power"
-          },
-          {
-            "id": "314",
-            "order": "Titans"
-          },
-          {
-            "id": "315",
-            "order": "Perfection"
-          },
-          {
-            "id": "316",
-            "order": "the Twins"
-          },
-          {
-            "id": "317",
-            "order": "Fury"
-          },
-          {
-            "id": "318",
-            "order": "Rage"
-          },
-          {
-            "id": "319",
-            "order": "Perfection"
-          },
-          {
-            "id": "32",
-            "order": "the Twins"
-          },
-          {
-            "id": "320",
-            "order": "the Fox"
-          },
-          {
-            "id": "321",
-            "order": "Power"
-          },
-          {
-            "id": "322",
-            "order": "Skill"
-          },
-          {
-            "id": "323",
-            "order": "Detection"
-          },
-          {
-            "id": "324",
-            "order": "Giants"
-          },
-          {
-            "id": "325",
-            "order": "Reflection"
-          },
-          {
-            "id": "326",
-            "order": "Protection"
-          },
-          {
-            "id": "327",
-            "order": "Titans"
-          },
-          {
-            "id": "328",
-            "order": "Vitriol"
-          },
-          {
-            "id": "329",
-            "order": "Protection"
-          },
-          {
-            "id": "33",
-            "order": "the Fox"
-          },
-          {
-            "id": "330",
-            "order": "Power"
-          },
-          {
-            "id": "331",
-            "order": "Titans"
-          },
-          {
-            "id": "332",
-            "order": "Protection"
-          },
-          {
-            "id": "333",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "334",
-            "order": "Detection"
-          },
-          {
-            "id": "335",
-            "order": "Detection"
-          },
-          {
-            "id": "336",
-            "order": "Detection"
-          },
-          {
-            "id": "337",
-            "order": "Reflection"
-          },
-          {
-            "id": "338",
-            "order": "the Fox"
-          },
-          {
-            "id": "339",
-            "order": "the Twins"
-          },
-          {
-            "id": "34",
-            "order": "Detection"
-          },
-          {
-            "id": "340",
-            "order": "the Twins"
-          },
-          {
-            "id": "341",
-            "order": "Detection"
-          },
-          {
-            "id": "342",
-            "order": "Perfection"
-          },
-          {
-            "id": "343",
-            "order": "Perfection"
-          },
-          {
-            "id": "344",
-            "order": "Fury"
-          },
-          {
-            "id": "345",
-            "order": "Reflection"
-          },
-          {
-            "id": "346",
-            "order": "Skill"
-          },
-          {
-            "id": "347",
-            "order": "Anger"
-          },
-          {
-            "id": "348",
-            "order": "Detection"
-          },
-          {
-            "id": "349",
-            "order": "Detection"
-          },
-          {
-            "id": "35",
-            "order": "Vitriol"
-          },
-          {
-            "id": "350",
-            "order": "Power"
-          },
-          {
-            "id": "351",
-            "order": "Detection"
-          },
-          {
-            "id": "352",
-            "order": "Protection"
-          },
-          {
-            "id": "353",
-            "order": "Rage"
-          },
-          {
-            "id": "354",
-            "order": "the Twins"
-          },
-          {
-            "id": "355",
-            "order": "Titans"
-          },
-          {
-            "id": "356",
-            "order": "Protection"
-          },
-          {
-            "id": "357",
-            "order": "Anger"
-          },
-          {
-            "id": "358",
-            "order": "Rage"
-          },
-          {
-            "id": "359",
-            "order": "Protection"
-          },
-          {
-            "id": "36",
-            "order": "Perfection"
-          },
-          {
-            "id": "360",
-            "order": "Anger"
-          },
-          {
-            "id": "361",
-            "order": "Protection"
-          },
-          {
-            "id": "362",
-            "order": "Brilliance"
-          },
-          {
-            "id": "363",
-            "order": "Anger"
-          },
-          {
-            "id": "364",
-            "order": "Fury"
-          },
-          {
-            "id": "365",
-            "order": "the Twins"
-          },
-          {
-            "id": "366",
-            "order": "Rage"
-          },
-          {
-            "id": "367",
-            "order": "Reflection"
-          },
-          {
-            "id": "368",
-            "order": "Fury"
-          },
-          {
-            "id": "369",
-            "order": "Titans"
-          },
-          {
-            "id": "37",
-            "order": "Perfection"
-          },
-          {
-            "id": "370",
-            "order": "Perfection"
-          },
-          {
-            "id": "371",
-            "order": "Power"
-          },
-          {
-            "id": "372",
-            "order": "Power"
-          },
-          {
-            "id": "373",
-            "order": "Reflection"
-          },
-          {
-            "id": "374",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "375",
-            "order": "Power"
-          },
-          {
-            "id": "376",
-            "order": "Anger"
-          },
-          {
-            "id": "377",
-            "order": "Rage"
-          },
-          {
-            "id": "378",
-            "order": "Protection"
-          },
-          {
-            "id": "379",
-            "order": "Reflection"
-          },
-          {
-            "id": "38",
-            "order": "Power"
-          },
-          {
-            "id": "380",
-            "order": "Rage"
-          },
-          {
-            "id": "381",
-            "order": "Brilliance"
-          },
-          {
-            "id": "382",
-            "order": "Anger"
-          },
-          {
-            "id": "383",
-            "order": "Detection"
-          },
-          {
-            "id": "384",
-            "order": "Reflection"
-          },
-          {
-            "id": "385",
-            "order": "Reflection"
-          },
-          {
-            "id": "386",
-            "order": "Perfection"
-          },
-          {
-            "id": "387",
-            "order": "Titans"
-          },
-          {
-            "id": "388",
-            "order": "Skill"
-          },
-          {
-            "id": "389",
-            "order": "Brilliance"
-          },
-          {
-            "id": "39",
-            "order": "Giants"
-          },
-          {
-            "id": "390",
-            "order": "Reflection"
-          },
-          {
-            "id": "391",
-            "order": "Power"
-          },
-          {
-            "id": "392",
-            "order": "Giants"
-          },
-          {
-            "id": "393",
-            "order": "Skill"
-          },
-          {
-            "id": "394",
-            "order": "Perfection"
-          },
-          {
-            "id": "395",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "396",
-            "order": "Anger"
-          },
-          {
-            "id": "397",
-            "order": "Fury"
-          },
-          {
-            "id": "398",
-            "order": "Vitriol"
-          },
-          {
-            "id": "399",
-            "order": "the Fox"
-          },
-          {
-            "id": "4",
-            "order": "Giants"
-          },
-          {
-            "id": "40",
-            "order": "Detection"
-          },
-          {
-            "id": "400",
-            "order": "Detection"
-          },
-          {
-            "id": "401",
-            "order": "Reflection"
-          },
-          {
-            "id": "402",
-            "order": "Titans"
-          },
-          {
-            "id": "403",
-            "order": "Brilliance"
-          },
-          {
-            "id": "404",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "405",
-            "order": "Protection"
-          },
-          {
-            "id": "406",
-            "order": "Reflection"
-          },
-          {
-            "id": "407",
-            "order": "Vitriol"
-          },
-          {
-            "id": "408",
-            "order": "Protection"
-          },
-          {
-            "id": "409",
-            "order": "Brilliance"
-          },
-          {
-            "id": "41",
-            "order": "Rage"
-          },
-          {
-            "id": "410",
-            "order": "Anger"
-          },
-          {
-            "id": "411",
-            "order": "Perfection"
-          },
-          {
-            "id": "412",
-            "order": "Titans"
-          },
-          {
-            "id": "413",
-            "order": "the Fox"
-          },
-          {
-            "id": "414",
-            "order": "Vitriol"
-          },
-          {
-            "id": "415",
-            "order": "the Fox"
-          },
-          {
-            "id": "416",
-            "order": "Skill"
-          },
-          {
-            "id": "417",
-            "order": "Titans"
-          },
-          {
-            "id": "418",
-            "order": "Vitriol"
-          },
-          {
-            "id": "419",
-            "order": "Detection"
-          },
-          {
-            "id": "42",
-            "order": "Reflection"
-          },
-          {
-            "id": "420",
-            "order": "Detection"
-          },
-          {
-            "id": "421",
-            "order": "Brilliance"
-          },
-          {
-            "id": "422",
-            "order": "Power"
-          },
-          {
-            "id": "423",
-            "order": "Brilliance"
-          },
-          {
-            "id": "424",
-            "order": "Power"
-          },
-          {
-            "id": "425",
-            "order": "the Fox"
-          },
-          {
-            "id": "426",
-            "order": "Power"
-          },
-          {
-            "id": "427",
-            "order": "Brilliance"
-          },
-          {
-            "id": "428",
-            "order": "Fury"
-          },
-          {
-            "id": "429",
-            "order": "Reflection"
-          },
-          {
-            "id": "43",
-            "order": "Skill"
-          },
-          {
-            "id": "430",
-            "order": "Rage"
-          },
-          {
-            "id": "431",
-            "order": "Anger"
-          },
-          {
-            "id": "432",
-            "order": "Titans"
-          },
-          {
-            "id": "433",
-            "order": "Brilliance"
-          },
-          {
-            "id": "434",
-            "order": "Skill"
-          },
-          {
-            "id": "435",
-            "order": "Perfection"
-          },
-          {
-            "id": "436",
-            "order": "Fury"
-          },
-          {
-            "id": "437",
-            "order": "Giants"
-          },
-          {
-            "id": "438",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "439",
-            "order": "the Fox"
-          },
-          {
-            "id": "44",
-            "order": "the Fox"
-          },
-          {
-            "id": "440",
-            "order": "Anger"
-          },
-          {
-            "id": "441",
-            "order": "Anger"
-          },
-          {
-            "id": "442",
-            "order": "the Fox"
-          },
-          {
-            "id": "443",
-            "order": "Protection"
-          },
-          {
-            "id": "444",
-            "order": "Reflection"
-          },
-          {
-            "id": "445",
-            "order": "Rage"
-          },
-          {
-            "id": "446",
-            "order": "Anger"
-          },
-          {
-            "id": "447",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "448",
-            "order": "Giants"
-          },
-          {
-            "id": "449",
-            "order": "Vitriol"
-          },
-          {
-            "id": "45",
-            "order": "Brilliance"
-          },
-          {
-            "id": "450",
-            "order": "Brilliance"
-          },
-          {
-            "id": "451",
-            "order": "Brilliance"
-          },
-          {
-            "id": "452",
-            "order": "Perfection"
-          },
-          {
-            "id": "453",
-            "order": "Titans"
-          },
-          {
-            "id": "454",
-            "order": "Detection"
-          },
-          {
-            "id": "455",
-            "order": "Reflection"
-          },
-          {
-            "id": "456",
-            "order": "the Twins"
-          },
-          {
-            "id": "457",
-            "order": "Brilliance"
-          },
-          {
-            "id": "458",
-            "order": "Anger"
-          },
-          {
-            "id": "459",
-            "order": "the Fox"
-          },
-          {
-            "id": "46",
-            "order": "Reflection"
-          },
-          {
-            "id": "460",
-            "order": "Rage"
-          },
-          {
-            "id": "461",
-            "order": "Giants"
-          },
-          {
-            "id": "462",
-            "order": "Skill"
-          },
-          {
-            "id": "463",
-            "order": "Protection"
-          },
-          {
-            "id": "464",
-            "order": "the Twins"
-          },
-          {
-            "id": "465",
-            "order": "Protection"
-          },
-          {
-            "id": "466",
-            "order": "Fury"
-          },
-          {
-            "id": "467",
-            "order": "Reflection"
-          },
-          {
-            "id": "468",
-            "order": "Detection"
-          },
-          {
-            "id": "469",
-            "order": "Anger"
-          },
-          {
-            "id": "47",
-            "order": "the Twins"
-          },
-          {
-            "id": "470",
-            "order": "Perfection"
-          },
-          {
-            "id": "471",
-            "order": "Reflection"
-          },
-          {
-            "id": "472",
-            "order": "Titans"
-          },
-          {
-            "id": "473",
-            "order": "Rage"
-          },
-          {
-            "id": "474",
-            "order": "Brilliance"
-          },
-          {
-            "id": "475",
-            "order": "the Twins"
-          },
-          {
-            "id": "476",
-            "order": "Giants"
-          },
-          {
-            "id": "48",
-            "order": "Skill"
-          },
-          {
-            "id": "49",
-            "order": "Brilliance"
-          },
-          {
-            "id": "5",
-            "order": "Anger"
-          },
-          {
-            "id": "50",
-            "order": "the Fox"
-          },
-          {
-            "id": "51",
-            "order": "the Fox"
-          },
-          {
-            "id": "52",
-            "order": "Protection"
-          },
-          {
-            "id": "53",
-            "order": "Vitriol"
-          },
-          {
-            "id": "54",
-            "order": "the Twins"
-          },
-          {
-            "id": "55",
-            "order": "Titans"
-          },
-          {
-            "id": "56",
-            "order": "Giants"
-          },
-          {
-            "id": "57",
-            "order": "the Twins"
-          },
-          {
-            "id": "58",
-            "order": "Brilliance"
-          },
-          {
-            "id": "59",
-            "order": "Fury"
-          },
-          {
-            "id": "6",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "60",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "61",
-            "order": "Rage"
-          },
-          {
-            "id": "62",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "63",
-            "order": "Perfection"
-          },
-          {
-            "id": "64",
-            "order": "Skill"
-          },
-          {
-            "id": "65",
-            "order": "Reflection"
-          },
-          {
-            "id": "66",
-            "order": "Enlightenment"
-          },
-          {
-            "id": "67",
-            "order": "Giants"
-          },
-          {
-            "id": "68",
-            "order": "Titans"
-          },
-          {
-            "id": "69",
-            "order": "Perfection"
-          },
-          {
-            "id": "7",
-            "order": "the Twins"
-          },
-          {
-            "id": "70",
-            "order": "Fury"
-          },
-          {
-            "id": "71",
-            "order": "Brilliance"
-          },
-          {
-            "id": "72",
-            "order": "Anger"
-          },
-          {
-            "id": "73",
-            "order": "Power"
-          },
-          {
-            "id": "74",
-            "order": "Giants"
-          },
-          {
-            "id": "75",
-            "order": "Brilliance"
-          },
-          {
-            "id": "76",
-            "order": "Anger"
-          },
-          {
-            "id": "77",
-            "order": "Anger"
-          },
-          {
-            "id": "78",
-            "order": "Brilliance"
-          },
-          {
-            "id": "79",
-            "order": "Detection"
-          },
-          {
-            "id": "8",
-            "order": "Brilliance"
-          },
-          {
-            "id": "80",
-            "order": "Reflection"
-          },
-          {
-            "id": "81",
-            "order": "the Twins"
-          },
-          {
-            "id": "82",
-            "order": "Vitriol"
-          },
-          {
-            "id": "83",
-            "order": "Protection"
-          },
-          {
-            "id": "84",
-            "order": "Power"
-          },
-          {
-            "id": "85",
-            "order": "the Fox"
-          },
-          {
-            "id": "86",
-            "order": "Titans"
-          },
-          {
-            "id": "87",
-            "order": "Anger"
-          },
-          {
-            "id": "88",
-            "order": "Vitriol"
-          },
-          {
-            "id": "89",
-            "order": "Reflection"
-          },
-          {
-            "id": "9",
-            "order": "Protection"
-          },
-          {
-            "id": "90",
-            "order": "Detection"
-          },
-          {
-            "id": "91",
-            "order": "Power"
-          },
-          {
-            "id": "92",
-            "order": "Titans"
-          },
-          {
-            "id": "93",
-            "order": "the Fox"
-          },
-          {
-            "id": "94",
-            "order": "Giants"
-          },
-          {
-            "id": "95",
-            "order": "Vitriol"
-          },
-          {
-            "id": "96",
-            "order": "Skill"
-          },
-          {
-            "id": "97",
-            "order": "Power"
-          },
-          {
-            "id": "98",
-            "order": "Titans"
-          },
-          {
-            "id": "99",
-            "order": "Fury"
-          }
-      ]
-    }
+  "data": {
+    "adventurers": [
+      {
+        "id": "1",
+        "order": "Brilliance"
+      },
+      {
+        "id": "10",
+        "order": "Vitriol"
+      },
+      {
+        "id": "100",
+        "order": "Fury"
+      },
+      {
+        "id": "101",
+        "order": "Anger"
+      },
+      {
+        "id": "102",
+        "order": "Fury"
+      },
+      {
+        "id": "103",
+        "order": "Titans"
+      },
+      {
+        "id": "104",
+        "order": "Fury"
+      },
+      {
+        "id": "105",
+        "order": "Rage"
+      },
+      {
+        "id": "106",
+        "order": "Detection"
+      },
+      {
+        "id": "107",
+        "order": "Giants"
+      },
+      {
+        "id": "108",
+        "order": "Rage"
+      },
+      {
+        "id": "109",
+        "order": "Brilliance"
+      },
+      {
+        "id": "11",
+        "order": "Power"
+      },
+      {
+        "id": "110",
+        "order": "the Fox"
+      },
+      {
+        "id": "111",
+        "order": "Skill"
+      },
+      {
+        "id": "112",
+        "order": "Vitriol"
+      },
+      {
+        "id": "113",
+        "order": "Anger"
+      },
+      {
+        "id": "114",
+        "order": "Titans"
+      },
+      {
+        "id": "115",
+        "order": "Protection"
+      },
+      {
+        "id": "116",
+        "order": "Brilliance"
+      },
+      {
+        "id": "117",
+        "order": "Anger"
+      },
+      {
+        "id": "118",
+        "order": "Rage"
+      },
+      {
+        "id": "119",
+        "order": "Power"
+      },
+      {
+        "id": "12",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "120",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "121",
+        "order": "Giants"
+      },
+      {
+        "id": "122",
+        "order": "Rage"
+      },
+      {
+        "id": "123",
+        "order": "the Fox"
+      },
+      {
+        "id": "124",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "125",
+        "order": "Power"
+      },
+      {
+        "id": "126",
+        "order": "the Twins"
+      },
+      {
+        "id": "127",
+        "order": "Titans"
+      },
+      {
+        "id": "128",
+        "order": "Power"
+      },
+      {
+        "id": "129",
+        "order": "Power"
+      },
+      {
+        "id": "13",
+        "order": "Power"
+      },
+      {
+        "id": "130",
+        "order": "Anger"
+      },
+      {
+        "id": "131",
+        "order": "Perfection"
+      },
+      {
+        "id": "132",
+        "order": "Fury"
+      },
+      {
+        "id": "133",
+        "order": "Perfection"
+      },
+      {
+        "id": "134",
+        "order": "Power"
+      },
+      {
+        "id": "135",
+        "order": "Giants"
+      },
+      {
+        "id": "136",
+        "order": "Rage"
+      },
+      {
+        "id": "137",
+        "order": "Titans"
+      },
+      {
+        "id": "138",
+        "order": "Rage"
+      },
+      {
+        "id": "139",
+        "order": "the Fox"
+      },
+      {
+        "id": "14",
+        "order": "Detection"
+      },
+      {
+        "id": "140",
+        "order": "the Twins"
+      },
+      {
+        "id": "141",
+        "order": "the Twins"
+      },
+      {
+        "id": "142",
+        "order": "Fury"
+      },
+      {
+        "id": "143",
+        "order": "Rage"
+      },
+      {
+        "id": "144",
+        "order": "Protection"
+      },
+      {
+        "id": "145",
+        "order": "Protection"
+      },
+      {
+        "id": "146",
+        "order": "Fury"
+      },
+      {
+        "id": "147",
+        "order": "Protection"
+      },
+      {
+        "id": "148",
+        "order": "the Twins"
+      },
+      {
+        "id": "149",
+        "order": "Perfection"
+      },
+      {
+        "id": "15",
+        "order": "Perfection"
+      },
+      {
+        "id": "150",
+        "order": "Detection"
+      },
+      {
+        "id": "151",
+        "order": "Reflection"
+      },
+      {
+        "id": "152",
+        "order": "Detection"
+      },
+      {
+        "id": "153",
+        "order": "Brilliance"
+      },
+      {
+        "id": "154",
+        "order": "Vitriol"
+      },
+      {
+        "id": "155",
+        "order": "Protection"
+      },
+      {
+        "id": "156",
+        "order": "Giants"
+      },
+      {
+        "id": "157",
+        "order": "Brilliance"
+      },
+      {
+        "id": "158",
+        "order": "Skill"
+      },
+      {
+        "id": "159",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "16",
+        "order": "the Fox"
+      },
+      {
+        "id": "160",
+        "order": "Fury"
+      },
+      {
+        "id": "161",
+        "order": "Titans"
+      },
+      {
+        "id": "162",
+        "order": "Giants"
+      },
+      {
+        "id": "163",
+        "order": "Reflection"
+      },
+      {
+        "id": "164",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "165",
+        "order": "Perfection"
+      },
+      {
+        "id": "166",
+        "order": "Fury"
+      },
+      {
+        "id": "167",
+        "order": "Power"
+      },
+      {
+        "id": "168",
+        "order": "Vitriol"
+      },
+      {
+        "id": "169",
+        "order": "Titans"
+      },
+      {
+        "id": "17",
+        "order": "Reflection"
+      },
+      {
+        "id": "170",
+        "order": "Anger"
+      },
+      {
+        "id": "171",
+        "order": "Perfection"
+      },
+      {
+        "id": "172",
+        "order": "the Twins"
+      },
+      {
+        "id": "173",
+        "order": "Vitriol"
+      },
+      {
+        "id": "174",
+        "order": "Brilliance"
+      },
+      {
+        "id": "175",
+        "order": "Protection"
+      },
+      {
+        "id": "176",
+        "order": "Titans"
+      },
+      {
+        "id": "177",
+        "order": "Perfection"
+      },
+      {
+        "id": "178",
+        "order": "Skill"
+      },
+      {
+        "id": "179",
+        "order": "Rage"
+      },
+      {
+        "id": "18",
+        "order": "Protection"
+      },
+      {
+        "id": "180",
+        "order": "Reflection"
+      },
+      {
+        "id": "181",
+        "order": "Fury"
+      },
+      {
+        "id": "182",
+        "order": "Detection"
+      },
+      {
+        "id": "183",
+        "order": "the Twins"
+      },
+      {
+        "id": "184",
+        "order": "Detection"
+      },
+      {
+        "id": "185",
+        "order": "Skill"
+      },
+      {
+        "id": "186",
+        "order": "Anger"
+      },
+      {
+        "id": "187",
+        "order": "Rage"
+      },
+      {
+        "id": "188",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "189",
+        "order": "Protection"
+      },
+      {
+        "id": "19",
+        "order": "Reflection"
+      },
+      {
+        "id": "190",
+        "order": "Giants"
+      },
+      {
+        "id": "191",
+        "order": "the Twins"
+      },
+      {
+        "id": "192",
+        "order": "Protection"
+      },
+      {
+        "id": "193",
+        "order": "Fury"
+      },
+      {
+        "id": "194",
+        "order": "Anger"
+      },
+      {
+        "id": "195",
+        "order": "Giants"
+      },
+      {
+        "id": "196",
+        "order": "the Fox"
+      },
+      {
+        "id": "197",
+        "order": "Rage"
+      },
+      {
+        "id": "198",
+        "order": "Detection"
+      },
+      {
+        "id": "199",
+        "order": "the Twins"
+      },
+      {
+        "id": "2",
+        "order": "Fury"
+      },
+      {
+        "id": "20",
+        "order": "Vitriol"
+      },
+      {
+        "id": "200",
+        "order": "the Fox"
+      },
+      {
+        "id": "201",
+        "order": "Titans"
+      },
+      {
+        "id": "202",
+        "order": "Giants"
+      },
+      {
+        "id": "203",
+        "order": "Titans"
+      },
+      {
+        "id": "204",
+        "order": "Brilliance"
+      },
+      {
+        "id": "205",
+        "order": "Power"
+      },
+      {
+        "id": "206",
+        "order": "Vitriol"
+      },
+      {
+        "id": "207",
+        "order": "Giants"
+      },
+      {
+        "id": "208",
+        "order": "Power"
+      },
+      {
+        "id": "209",
+        "order": "Brilliance"
+      },
+      {
+        "id": "21",
+        "order": "the Fox"
+      },
+      {
+        "id": "210",
+        "order": "Perfection"
+      },
+      {
+        "id": "211",
+        "order": "Brilliance"
+      },
+      {
+        "id": "212",
+        "order": "Anger"
+      },
+      {
+        "id": "213",
+        "order": "Rage"
+      },
+      {
+        "id": "214",
+        "order": "Vitriol"
+      },
+      {
+        "id": "215",
+        "order": "Rage"
+      },
+      {
+        "id": "216",
+        "order": "Perfection"
+      },
+      {
+        "id": "217",
+        "order": "Anger"
+      },
+      {
+        "id": "218",
+        "order": "Giants"
+      },
+      {
+        "id": "219",
+        "order": "Skill"
+      },
+      {
+        "id": "22",
+        "order": "Skill"
+      },
+      {
+        "id": "220",
+        "order": "Skill"
+      },
+      {
+        "id": "221",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "222",
+        "order": "Reflection"
+      },
+      {
+        "id": "223",
+        "order": "Brilliance"
+      },
+      {
+        "id": "224",
+        "order": "Reflection"
+      },
+      {
+        "id": "225",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "226",
+        "order": "Skill"
+      },
+      {
+        "id": "227",
+        "order": "Perfection"
+      },
+      {
+        "id": "228",
+        "order": "Power"
+      },
+      {
+        "id": "229",
+        "order": "Fury"
+      },
+      {
+        "id": "23",
+        "order": "Rage"
+      },
+      {
+        "id": "230",
+        "order": "Brilliance"
+      },
+      {
+        "id": "231",
+        "order": "Reflection"
+      },
+      {
+        "id": "232",
+        "order": "the Fox"
+      },
+      {
+        "id": "233",
+        "order": "Vitriol"
+      },
+      {
+        "id": "234",
+        "order": "Anger"
+      },
+      {
+        "id": "235",
+        "order": "Detection"
+      },
+      {
+        "id": "236",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "237",
+        "order": "Reflection"
+      },
+      {
+        "id": "238",
+        "order": "Protection"
+      },
+      {
+        "id": "239",
+        "order": "Skill"
+      },
+      {
+        "id": "24",
+        "order": "Fury"
+      },
+      {
+        "id": "240",
+        "order": "Giants"
+      },
+      {
+        "id": "241",
+        "order": "Giants"
+      },
+      {
+        "id": "242",
+        "order": "the Fox"
+      },
+      {
+        "id": "243",
+        "order": "Protection"
+      },
+      {
+        "id": "244",
+        "order": "Fury"
+      },
+      {
+        "id": "245",
+        "order": "Perfection"
+      },
+      {
+        "id": "246",
+        "order": "the Fox"
+      },
+      {
+        "id": "247",
+        "order": "Power"
+      },
+      {
+        "id": "248",
+        "order": "Reflection"
+      },
+      {
+        "id": "249",
+        "order": "Fury"
+      },
+      {
+        "id": "25",
+        "order": "Rage"
+      },
+      {
+        "id": "250",
+        "order": "Rage"
+      },
+      {
+        "id": "251",
+        "order": "Perfection"
+      },
+      {
+        "id": "252",
+        "order": "Brilliance"
+      },
+      {
+        "id": "253",
+        "order": "Protection"
+      },
+      {
+        "id": "254",
+        "order": "Titans"
+      },
+      {
+        "id": "255",
+        "order": "the Twins"
+      },
+      {
+        "id": "256",
+        "order": "Anger"
+      },
+      {
+        "id": "257",
+        "order": "Giants"
+      },
+      {
+        "id": "258",
+        "order": "Rage"
+      },
+      {
+        "id": "259",
+        "order": "Titans"
+      },
+      {
+        "id": "26",
+        "order": "Rage"
+      },
+      {
+        "id": "260",
+        "order": "Rage"
+      },
+      {
+        "id": "261",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "262",
+        "order": "Titans"
+      },
+      {
+        "id": "263",
+        "order": "Detection"
+      },
+      {
+        "id": "264",
+        "order": "Anger"
+      },
+      {
+        "id": "265",
+        "order": "Protection"
+      },
+      {
+        "id": "266",
+        "order": "Titans"
+      },
+      {
+        "id": "267",
+        "order": "the Twins"
+      },
+      {
+        "id": "268",
+        "order": "Detection"
+      },
+      {
+        "id": "269",
+        "order": "Perfection"
+      },
+      {
+        "id": "27",
+        "order": "Vitriol"
+      },
+      {
+        "id": "270",
+        "order": "Giants"
+      },
+      {
+        "id": "271",
+        "order": "the Twins"
+      },
+      {
+        "id": "272",
+        "order": "Brilliance"
+      },
+      {
+        "id": "273",
+        "order": "Fury"
+      },
+      {
+        "id": "274",
+        "order": "Anger"
+      },
+      {
+        "id": "275",
+        "order": "Vitriol"
+      },
+      {
+        "id": "276",
+        "order": "Giants"
+      },
+      {
+        "id": "277",
+        "order": "Titans"
+      },
+      {
+        "id": "278",
+        "order": "the Twins"
+      },
+      {
+        "id": "279",
+        "order": "Fury"
+      },
+      {
+        "id": "28",
+        "order": "Protection"
+      },
+      {
+        "id": "280",
+        "order": "Protection"
+      },
+      {
+        "id": "281",
+        "order": "Skill"
+      },
+      {
+        "id": "282",
+        "order": "Brilliance"
+      },
+      {
+        "id": "283",
+        "order": "Vitriol"
+      },
+      {
+        "id": "284",
+        "order": "Protection"
+      },
+      {
+        "id": "285",
+        "order": "Fury"
+      },
+      {
+        "id": "286",
+        "order": "Perfection"
+      },
+      {
+        "id": "287",
+        "order": "Power"
+      },
+      {
+        "id": "288",
+        "order": "Fury"
+      },
+      {
+        "id": "289",
+        "order": "Rage"
+      },
+      {
+        "id": "29",
+        "order": "Rage"
+      },
+      {
+        "id": "290",
+        "order": "the Twins"
+      },
+      {
+        "id": "291",
+        "order": "Detection"
+      },
+      {
+        "id": "292",
+        "order": "Anger"
+      },
+      {
+        "id": "293",
+        "order": "Power"
+      },
+      {
+        "id": "294",
+        "order": "the Fox"
+      },
+      {
+        "id": "295",
+        "order": "Reflection"
+      },
+      {
+        "id": "296",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "297",
+        "order": "Vitriol"
+      },
+      {
+        "id": "298",
+        "order": "Anger"
+      },
+      {
+        "id": "299",
+        "order": "the Twins"
+      },
+      {
+        "id": "3",
+        "order": "Titans"
+      },
+      {
+        "id": "30",
+        "order": "Skill"
+      },
+      {
+        "id": "300",
+        "order": "the Fox"
+      },
+      {
+        "id": "301",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "302",
+        "order": "Anger"
+      },
+      {
+        "id": "303",
+        "order": "Vitriol"
+      },
+      {
+        "id": "304",
+        "order": "Perfection"
+      },
+      {
+        "id": "305",
+        "order": "the Fox"
+      },
+      {
+        "id": "306",
+        "order": "Rage"
+      },
+      {
+        "id": "307",
+        "order": "Skill"
+      },
+      {
+        "id": "308",
+        "order": "Fury"
+      },
+      {
+        "id": "309",
+        "order": "Giants"
+      },
+      {
+        "id": "31",
+        "order": "Giants"
+      },
+      {
+        "id": "310",
+        "order": "Giants"
+      },
+      {
+        "id": "311",
+        "order": "Fury"
+      },
+      {
+        "id": "312",
+        "order": "Brilliance"
+      },
+      {
+        "id": "313",
+        "order": "Power"
+      },
+      {
+        "id": "314",
+        "order": "Titans"
+      },
+      {
+        "id": "315",
+        "order": "Perfection"
+      },
+      {
+        "id": "316",
+        "order": "the Twins"
+      },
+      {
+        "id": "317",
+        "order": "Fury"
+      },
+      {
+        "id": "318",
+        "order": "Rage"
+      },
+      {
+        "id": "319",
+        "order": "Perfection"
+      },
+      {
+        "id": "32",
+        "order": "the Twins"
+      },
+      {
+        "id": "320",
+        "order": "the Fox"
+      },
+      {
+        "id": "321",
+        "order": "Power"
+      },
+      {
+        "id": "322",
+        "order": "Skill"
+      },
+      {
+        "id": "323",
+        "order": "Detection"
+      },
+      {
+        "id": "324",
+        "order": "Giants"
+      },
+      {
+        "id": "325",
+        "order": "Reflection"
+      },
+      {
+        "id": "326",
+        "order": "Protection"
+      },
+      {
+        "id": "327",
+        "order": "Titans"
+      },
+      {
+        "id": "328",
+        "order": "Vitriol"
+      },
+      {
+        "id": "329",
+        "order": "Protection"
+      },
+      {
+        "id": "33",
+        "order": "the Fox"
+      },
+      {
+        "id": "330",
+        "order": "Power"
+      },
+      {
+        "id": "331",
+        "order": "Titans"
+      },
+      {
+        "id": "332",
+        "order": "Protection"
+      },
+      {
+        "id": "333",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "334",
+        "order": "Detection"
+      },
+      {
+        "id": "335",
+        "order": "Detection"
+      },
+      {
+        "id": "336",
+        "order": "Detection"
+      },
+      {
+        "id": "337",
+        "order": "Reflection"
+      },
+      {
+        "id": "338",
+        "order": "the Fox"
+      },
+      {
+        "id": "339",
+        "order": "the Twins"
+      },
+      {
+        "id": "34",
+        "order": "Detection"
+      },
+      {
+        "id": "340",
+        "order": "the Twins"
+      },
+      {
+        "id": "341",
+        "order": "Detection"
+      },
+      {
+        "id": "342",
+        "order": "Perfection"
+      },
+      {
+        "id": "343",
+        "order": "Perfection"
+      },
+      {
+        "id": "344",
+        "order": "Fury"
+      },
+      {
+        "id": "345",
+        "order": "Reflection"
+      },
+      {
+        "id": "346",
+        "order": "Skill"
+      },
+      {
+        "id": "347",
+        "order": "Anger"
+      },
+      {
+        "id": "348",
+        "order": "Detection"
+      },
+      {
+        "id": "349",
+        "order": "Detection"
+      },
+      {
+        "id": "35",
+        "order": "Vitriol"
+      },
+      {
+        "id": "350",
+        "order": "Power"
+      },
+      {
+        "id": "351",
+        "order": "Detection"
+      },
+      {
+        "id": "352",
+        "order": "Protection"
+      },
+      {
+        "id": "353",
+        "order": "Rage"
+      },
+      {
+        "id": "354",
+        "order": "the Twins"
+      },
+      {
+        "id": "355",
+        "order": "Titans"
+      },
+      {
+        "id": "356",
+        "order": "Protection"
+      },
+      {
+        "id": "357",
+        "order": "Anger"
+      },
+      {
+        "id": "358",
+        "order": "Rage"
+      },
+      {
+        "id": "359",
+        "order": "Protection"
+      },
+      {
+        "id": "36",
+        "order": "Perfection"
+      },
+      {
+        "id": "360",
+        "order": "Anger"
+      },
+      {
+        "id": "361",
+        "order": "Protection"
+      },
+      {
+        "id": "362",
+        "order": "Brilliance"
+      },
+      {
+        "id": "363",
+        "order": "Anger"
+      },
+      {
+        "id": "364",
+        "order": "Fury"
+      },
+      {
+        "id": "365",
+        "order": "the Twins"
+      },
+      {
+        "id": "366",
+        "order": "Rage"
+      },
+      {
+        "id": "367",
+        "order": "Reflection"
+      },
+      {
+        "id": "368",
+        "order": "Fury"
+      },
+      {
+        "id": "369",
+        "order": "Titans"
+      },
+      {
+        "id": "37",
+        "order": "Perfection"
+      },
+      {
+        "id": "370",
+        "order": "Perfection"
+      },
+      {
+        "id": "371",
+        "order": "Power"
+      },
+      {
+        "id": "372",
+        "order": "Power"
+      },
+      {
+        "id": "373",
+        "order": "Reflection"
+      },
+      {
+        "id": "374",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "375",
+        "order": "Power"
+      },
+      {
+        "id": "376",
+        "order": "Anger"
+      },
+      {
+        "id": "377",
+        "order": "Rage"
+      },
+      {
+        "id": "378",
+        "order": "Protection"
+      },
+      {
+        "id": "379",
+        "order": "Reflection"
+      },
+      {
+        "id": "38",
+        "order": "Power"
+      },
+      {
+        "id": "380",
+        "order": "Rage"
+      },
+      {
+        "id": "381",
+        "order": "Brilliance"
+      },
+      {
+        "id": "382",
+        "order": "Anger"
+      },
+      {
+        "id": "383",
+        "order": "Detection"
+      },
+      {
+        "id": "384",
+        "order": "Reflection"
+      },
+      {
+        "id": "385",
+        "order": "Reflection"
+      },
+      {
+        "id": "386",
+        "order": "Perfection"
+      },
+      {
+        "id": "387",
+        "order": "Titans"
+      },
+      {
+        "id": "388",
+        "order": "Skill"
+      },
+      {
+        "id": "389",
+        "order": "Brilliance"
+      },
+      {
+        "id": "39",
+        "order": "Giants"
+      },
+      {
+        "id": "390",
+        "order": "Reflection"
+      },
+      {
+        "id": "391",
+        "order": "Power"
+      },
+      {
+        "id": "392",
+        "order": "Giants"
+      },
+      {
+        "id": "393",
+        "order": "Skill"
+      },
+      {
+        "id": "394",
+        "order": "Perfection"
+      },
+      {
+        "id": "395",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "396",
+        "order": "Anger"
+      },
+      {
+        "id": "397",
+        "order": "Fury"
+      },
+      {
+        "id": "398",
+        "order": "Vitriol"
+      },
+      {
+        "id": "399",
+        "order": "the Fox"
+      },
+      {
+        "id": "4",
+        "order": "Giants"
+      },
+      {
+        "id": "40",
+        "order": "Detection"
+      },
+      {
+        "id": "400",
+        "order": "Detection"
+      },
+      {
+        "id": "401",
+        "order": "Reflection"
+      },
+      {
+        "id": "402",
+        "order": "Titans"
+      },
+      {
+        "id": "403",
+        "order": "Brilliance"
+      },
+      {
+        "id": "404",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "405",
+        "order": "Protection"
+      },
+      {
+        "id": "406",
+        "order": "Reflection"
+      },
+      {
+        "id": "407",
+        "order": "Vitriol"
+      },
+      {
+        "id": "408",
+        "order": "Protection"
+      },
+      {
+        "id": "409",
+        "order": "Brilliance"
+      },
+      {
+        "id": "41",
+        "order": "Rage"
+      },
+      {
+        "id": "410",
+        "order": "Anger"
+      },
+      {
+        "id": "411",
+        "order": "Perfection"
+      },
+      {
+        "id": "412",
+        "order": "Titans"
+      },
+      {
+        "id": "413",
+        "order": "the Fox"
+      },
+      {
+        "id": "414",
+        "order": "Vitriol"
+      },
+      {
+        "id": "415",
+        "order": "the Fox"
+      },
+      {
+        "id": "416",
+        "order": "Skill"
+      },
+      {
+        "id": "417",
+        "order": "Titans"
+      },
+      {
+        "id": "418",
+        "order": "Vitriol"
+      },
+      {
+        "id": "419",
+        "order": "Detection"
+      },
+      {
+        "id": "42",
+        "order": "Reflection"
+      },
+      {
+        "id": "420",
+        "order": "Detection"
+      },
+      {
+        "id": "421",
+        "order": "Brilliance"
+      },
+      {
+        "id": "422",
+        "order": "Power"
+      },
+      {
+        "id": "423",
+        "order": "Brilliance"
+      },
+      {
+        "id": "424",
+        "order": "Power"
+      },
+      {
+        "id": "425",
+        "order": "the Fox"
+      },
+      {
+        "id": "426",
+        "order": "Power"
+      },
+      {
+        "id": "427",
+        "order": "Brilliance"
+      },
+      {
+        "id": "428",
+        "order": "Fury"
+      },
+      {
+        "id": "429",
+        "order": "Reflection"
+      },
+      {
+        "id": "43",
+        "order": "Skill"
+      },
+      {
+        "id": "430",
+        "order": "Rage"
+      },
+      {
+        "id": "431",
+        "order": "Anger"
+      },
+      {
+        "id": "432",
+        "order": "Titans"
+      },
+      {
+        "id": "433",
+        "order": "Brilliance"
+      },
+      {
+        "id": "434",
+        "order": "Skill"
+      },
+      {
+        "id": "435",
+        "order": "Perfection"
+      },
+      {
+        "id": "436",
+        "order": "Fury"
+      },
+      {
+        "id": "437",
+        "order": "Giants"
+      },
+      {
+        "id": "438",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "439",
+        "order": "the Fox"
+      },
+      {
+        "id": "44",
+        "order": "the Fox"
+      },
+      {
+        "id": "440",
+        "order": "Anger"
+      },
+      {
+        "id": "441",
+        "order": "Anger"
+      },
+      {
+        "id": "442",
+        "order": "the Fox"
+      },
+      {
+        "id": "443",
+        "order": "Protection"
+      },
+      {
+        "id": "444",
+        "order": "Reflection"
+      },
+      {
+        "id": "445",
+        "order": "Rage"
+      },
+      {
+        "id": "446",
+        "order": "Anger"
+      },
+      {
+        "id": "447",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "448",
+        "order": "Giants"
+      },
+      {
+        "id": "449",
+        "order": "Vitriol"
+      },
+      {
+        "id": "45",
+        "order": "Brilliance"
+      },
+      {
+        "id": "450",
+        "order": "Brilliance"
+      },
+      {
+        "id": "451",
+        "order": "Brilliance"
+      },
+      {
+        "id": "452",
+        "order": "Perfection"
+      },
+      {
+        "id": "453",
+        "order": "Titans"
+      },
+      {
+        "id": "454",
+        "order": "Detection"
+      },
+      {
+        "id": "455",
+        "order": "Reflection"
+      },
+      {
+        "id": "456",
+        "order": "the Twins"
+      },
+      {
+        "id": "457",
+        "order": "Brilliance"
+      },
+      {
+        "id": "458",
+        "order": "Anger"
+      },
+      {
+        "id": "459",
+        "order": "the Fox"
+      },
+      {
+        "id": "46",
+        "order": "Reflection"
+      },
+      {
+        "id": "460",
+        "order": "Rage"
+      },
+      {
+        "id": "461",
+        "order": "Giants"
+      },
+      {
+        "id": "462",
+        "order": "Skill"
+      },
+      {
+        "id": "463",
+        "order": "Protection"
+      },
+      {
+        "id": "464",
+        "order": "the Twins"
+      },
+      {
+        "id": "465",
+        "order": "Protection"
+      },
+      {
+        "id": "466",
+        "order": "Fury"
+      },
+      {
+        "id": "467",
+        "order": "Reflection"
+      },
+      {
+        "id": "468",
+        "order": "Detection"
+      },
+      {
+        "id": "469",
+        "order": "Anger"
+      },
+      {
+        "id": "47",
+        "order": "the Twins"
+      },
+      {
+        "id": "470",
+        "order": "Perfection"
+      },
+      {
+        "id": "471",
+        "order": "Reflection"
+      },
+      {
+        "id": "472",
+        "order": "Titans"
+      },
+      {
+        "id": "473",
+        "order": "Rage"
+      },
+      {
+        "id": "474",
+        "order": "Brilliance"
+      },
+      {
+        "id": "475",
+        "order": "the Twins"
+      },
+      {
+        "id": "476",
+        "order": "Giants"
+      },
+      {
+        "id": "477",
+        "order": "Fury"
+      },
+      {
+        "id": "478",
+        "order": "Skill"
+      },
+      {
+        "id": "479",
+        "order": "Power"
+      },
+      {
+        "id": "48",
+        "order": "Skill"
+      },
+      {
+        "id": "480",
+        "order": "Vitriol"
+      },
+      {
+        "id": "481",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "482",
+        "order": "Titans"
+      },
+      {
+        "id": "483",
+        "order": "Brilliance"
+      },
+      {
+        "id": "484",
+        "order": "Fury"
+      },
+      {
+        "id": "485",
+        "order": "the Fox"
+      },
+      {
+        "id": "486",
+        "order": "Skill"
+      },
+      {
+        "id": "487",
+        "order": "Skill"
+      },
+      {
+        "id": "488",
+        "order": "Skill"
+      },
+      {
+        "id": "489",
+        "order": "Skill"
+      },
+      {
+        "id": "49",
+        "order": "Brilliance"
+      },
+      {
+        "id": "490",
+        "order": "the Fox"
+      },
+      {
+        "id": "491",
+        "order": "Detection"
+      },
+      {
+        "id": "492",
+        "order": "Vitriol"
+      },
+      {
+        "id": "493",
+        "order": "the Twins"
+      },
+      {
+        "id": "494",
+        "order": "Protection"
+      },
+      {
+        "id": "495",
+        "order": "Perfection"
+      },
+      {
+        "id": "496",
+        "order": "Detection"
+      },
+      {
+        "id": "497",
+        "order": "Protection"
+      },
+      {
+        "id": "498",
+        "order": "Titans"
+      },
+      {
+        "id": "499",
+        "order": "the Fox"
+      },
+      {
+        "id": "5",
+        "order": "Anger"
+      },
+      {
+        "id": "50",
+        "order": "the Fox"
+      },
+      {
+        "id": "500",
+        "order": "Giants"
+      },
+      {
+        "id": "501",
+        "order": "Perfection"
+      },
+      {
+        "id": "502",
+        "order": "Power"
+      },
+      {
+        "id": "503",
+        "order": "Reflection"
+      },
+      {
+        "id": "504",
+        "order": "the Fox"
+      },
+      {
+        "id": "505",
+        "order": "Skill"
+      },
+      {
+        "id": "506",
+        "order": "Vitriol"
+      },
+      {
+        "id": "507",
+        "order": "Skill"
+      },
+      {
+        "id": "508",
+        "order": "Vitriol"
+      },
+      {
+        "id": "509",
+        "order": "Power"
+      },
+      {
+        "id": "51",
+        "order": "the Fox"
+      },
+      {
+        "id": "510",
+        "order": "Giants"
+      },
+      {
+        "id": "511",
+        "order": "Giants"
+      },
+      {
+        "id": "512",
+        "order": "Vitriol"
+      },
+      {
+        "id": "513",
+        "order": "Titans"
+      },
+      {
+        "id": "514",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "515",
+        "order": "Detection"
+      },
+      {
+        "id": "516",
+        "order": "Detection"
+      },
+      {
+        "id": "517",
+        "order": "Anger"
+      },
+      {
+        "id": "518",
+        "order": "the Twins"
+      },
+      {
+        "id": "519",
+        "order": "Rage"
+      },
+      {
+        "id": "52",
+        "order": "Protection"
+      },
+      {
+        "id": "520",
+        "order": "the Fox"
+      },
+      {
+        "id": "521",
+        "order": "Power"
+      },
+      {
+        "id": "522",
+        "order": "Perfection"
+      },
+      {
+        "id": "523",
+        "order": "Anger"
+      },
+      {
+        "id": "524",
+        "order": "Fury"
+      },
+      {
+        "id": "525",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "526",
+        "order": "Reflection"
+      },
+      {
+        "id": "527",
+        "order": "Reflection"
+      },
+      {
+        "id": "528",
+        "order": "Giants"
+      },
+      {
+        "id": "529",
+        "order": "Power"
+      },
+      {
+        "id": "53",
+        "order": "Vitriol"
+      },
+      {
+        "id": "530",
+        "order": "Power"
+      },
+      {
+        "id": "531",
+        "order": "the Fox"
+      },
+      {
+        "id": "532",
+        "order": "Titans"
+      },
+      {
+        "id": "533",
+        "order": "Vitriol"
+      },
+      {
+        "id": "534",
+        "order": "Perfection"
+      },
+      {
+        "id": "535",
+        "order": "Protection"
+      },
+      {
+        "id": "536",
+        "order": "Anger"
+      },
+      {
+        "id": "537",
+        "order": "Titans"
+      },
+      {
+        "id": "538",
+        "order": "the Twins"
+      },
+      {
+        "id": "539",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "54",
+        "order": "the Twins"
+      },
+      {
+        "id": "540",
+        "order": "Giants"
+      },
+      {
+        "id": "541",
+        "order": "Titans"
+      },
+      {
+        "id": "542",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "543",
+        "order": "Protection"
+      },
+      {
+        "id": "544",
+        "order": "Fury"
+      },
+      {
+        "id": "545",
+        "order": "Titans"
+      },
+      {
+        "id": "546",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "547",
+        "order": "Rage"
+      },
+      {
+        "id": "548",
+        "order": "Titans"
+      },
+      {
+        "id": "549",
+        "order": "Power"
+      },
+      {
+        "id": "55",
+        "order": "Titans"
+      },
+      {
+        "id": "550",
+        "order": "Reflection"
+      },
+      {
+        "id": "551",
+        "order": "Perfection"
+      },
+      {
+        "id": "552",
+        "order": "Reflection"
+      },
+      {
+        "id": "553",
+        "order": "Perfection"
+      },
+      {
+        "id": "554",
+        "order": "the Fox"
+      },
+      {
+        "id": "555",
+        "order": "Fury"
+      },
+      {
+        "id": "556",
+        "order": "Anger"
+      },
+      {
+        "id": "557",
+        "order": "Detection"
+      },
+      {
+        "id": "558",
+        "order": "the Twins"
+      },
+      {
+        "id": "559",
+        "order": "Power"
+      },
+      {
+        "id": "56",
+        "order": "Giants"
+      },
+      {
+        "id": "560",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "561",
+        "order": "the Twins"
+      },
+      {
+        "id": "562",
+        "order": "Protection"
+      },
+      {
+        "id": "563",
+        "order": "Rage"
+      },
+      {
+        "id": "564",
+        "order": "Anger"
+      },
+      {
+        "id": "565",
+        "order": "Detection"
+      },
+      {
+        "id": "566",
+        "order": "Skill"
+      },
+      {
+        "id": "567",
+        "order": "Reflection"
+      },
+      {
+        "id": "568",
+        "order": "Vitriol"
+      },
+      {
+        "id": "569",
+        "order": "Giants"
+      },
+      {
+        "id": "57",
+        "order": "the Twins"
+      },
+      {
+        "id": "570",
+        "order": "Skill"
+      },
+      {
+        "id": "571",
+        "order": "the Fox"
+      },
+      {
+        "id": "572",
+        "order": "the Twins"
+      },
+      {
+        "id": "573",
+        "order": "Perfection"
+      },
+      {
+        "id": "574",
+        "order": "Fury"
+      },
+      {
+        "id": "575",
+        "order": "Fury"
+      },
+      {
+        "id": "576",
+        "order": "Vitriol"
+      },
+      {
+        "id": "577",
+        "order": "Anger"
+      },
+      {
+        "id": "578",
+        "order": "Anger"
+      },
+      {
+        "id": "579",
+        "order": "Reflection"
+      },
+      {
+        "id": "58",
+        "order": "Brilliance"
+      },
+      {
+        "id": "580",
+        "order": "Reflection"
+      },
+      {
+        "id": "581",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "582",
+        "order": "Detection"
+      },
+      {
+        "id": "583",
+        "order": "Protection"
+      },
+      {
+        "id": "584",
+        "order": "Reflection"
+      },
+      {
+        "id": "585",
+        "order": "Perfection"
+      },
+      {
+        "id": "586",
+        "order": "Perfection"
+      },
+      {
+        "id": "587",
+        "order": "Brilliance"
+      },
+      {
+        "id": "588",
+        "order": "Titans"
+      },
+      {
+        "id": "589",
+        "order": "the Fox"
+      },
+      {
+        "id": "59",
+        "order": "Fury"
+      },
+      {
+        "id": "590",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "591",
+        "order": "Titans"
+      },
+      {
+        "id": "592",
+        "order": "the Fox"
+      },
+      {
+        "id": "593",
+        "order": "Anger"
+      },
+      {
+        "id": "594",
+        "order": "Giants"
+      },
+      {
+        "id": "595",
+        "order": "the Twins"
+      },
+      {
+        "id": "596",
+        "order": "Reflection"
+      },
+      {
+        "id": "597",
+        "order": "Detection"
+      },
+      {
+        "id": "598",
+        "order": "Detection"
+      },
+      {
+        "id": "599",
+        "order": "Vitriol"
+      },
+      {
+        "id": "6",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "60",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "600",
+        "order": "Brilliance"
+      },
+      {
+        "id": "601",
+        "order": "Vitriol"
+      },
+      {
+        "id": "602",
+        "order": "Detection"
+      },
+      {
+        "id": "603",
+        "order": "the Twins"
+      },
+      {
+        "id": "604",
+        "order": "Fury"
+      },
+      {
+        "id": "605",
+        "order": "Fury"
+      },
+      {
+        "id": "606",
+        "order": "the Twins"
+      },
+      {
+        "id": "607",
+        "order": "Titans"
+      },
+      {
+        "id": "608",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "609",
+        "order": "Perfection"
+      },
+      {
+        "id": "61",
+        "order": "Rage"
+      },
+      {
+        "id": "610",
+        "order": "Giants"
+      },
+      {
+        "id": "611",
+        "order": "Skill"
+      },
+      {
+        "id": "612",
+        "order": "Titans"
+      },
+      {
+        "id": "613",
+        "order": "Vitriol"
+      },
+      {
+        "id": "614",
+        "order": "Giants"
+      },
+      {
+        "id": "615",
+        "order": "Protection"
+      },
+      {
+        "id": "616",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "617",
+        "order": "Fury"
+      },
+      {
+        "id": "618",
+        "order": "Vitriol"
+      },
+      {
+        "id": "619",
+        "order": "Vitriol"
+      },
+      {
+        "id": "62",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "63",
+        "order": "Perfection"
+      },
+      {
+        "id": "64",
+        "order": "Skill"
+      },
+      {
+        "id": "65",
+        "order": "Reflection"
+      },
+      {
+        "id": "66",
+        "order": "Enlightenment"
+      },
+      {
+        "id": "67",
+        "order": "Giants"
+      },
+      {
+        "id": "68",
+        "order": "Titans"
+      },
+      {
+        "id": "69",
+        "order": "Perfection"
+      },
+      {
+        "id": "7",
+        "order": "the Twins"
+      },
+      {
+        "id": "70",
+        "order": "Fury"
+      },
+      {
+        "id": "71",
+        "order": "Brilliance"
+      },
+      {
+        "id": "72",
+        "order": "Anger"
+      },
+      {
+        "id": "73",
+        "order": "Power"
+      },
+      {
+        "id": "74",
+        "order": "Giants"
+      },
+      {
+        "id": "75",
+        "order": "Brilliance"
+      },
+      {
+        "id": "76",
+        "order": "Anger"
+      },
+      {
+        "id": "77",
+        "order": "Anger"
+      },
+      {
+        "id": "78",
+        "order": "Brilliance"
+      },
+      {
+        "id": "79",
+        "order": "Detection"
+      },
+      {
+        "id": "8",
+        "order": "Brilliance"
+      },
+      {
+        "id": "80",
+        "order": "Reflection"
+      },
+      {
+        "id": "81",
+        "order": "the Twins"
+      },
+      {
+        "id": "82",
+        "order": "Vitriol"
+      },
+      {
+        "id": "83",
+        "order": "Protection"
+      },
+      {
+        "id": "84",
+        "order": "Power"
+      },
+      {
+        "id": "85",
+        "order": "the Fox"
+      },
+      {
+        "id": "86",
+        "order": "Titans"
+      },
+      {
+        "id": "87",
+        "order": "Anger"
+      },
+      {
+        "id": "88",
+        "order": "Vitriol"
+      },
+      {
+        "id": "89",
+        "order": "Reflection"
+      },
+      {
+        "id": "9",
+        "order": "Protection"
+      },
+      {
+        "id": "90",
+        "order": "Detection"
+      },
+      {
+        "id": "91",
+        "order": "Power"
+      },
+      {
+        "id": "92",
+        "order": "Titans"
+      },
+      {
+        "id": "93",
+        "order": "the Fox"
+      },
+      {
+        "id": "94",
+        "order": "Giants"
+      },
+      {
+        "id": "95",
+        "order": "Vitriol"
+      },
+      {
+        "id": "96",
+        "order": "Skill"
+      },
+      {
+        "id": "97",
+        "order": "Power"
+      },
+      {
+        "id": "98",
+        "order": "Titans"
+      },
+      {
+        "id": "99",
+        "order": "Fury"
+      }
+    ]
   }
+}
